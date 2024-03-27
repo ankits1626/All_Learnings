@@ -28,3 +28,21 @@
 2024-03-27 10:53:11,508 - test_reward_listing.py:[20] - [INFO] -  rewards listing screen: available points = You have 1,971,047 points extracted_remaining_points = 1971047 remaining_points = 1971047
 2024-03-27 10:53:11,509 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971047
 2024-03-27 10:53:11,514 - test_reward_listing.py:[28] - [INFO] -  rewards listing screen: available points = You have 1,971,047 points extracted_remaining_points = 1971047 formatted_remaining_points = 1,971,047
+2024-03-27 13:03:49,120 - conftest.py:[35] - [INFO] - ground truth datasource = api
+2024-03-27 13:03:49,122 - api.py:[51] - [INFO] - fetching token
+2024-03-27 13:04:12,418 - conftest.py:[43] - [INFO] - initiating driver ios token = 70bc5a58d04de453accc107d82461c8cc53fa7b4
+2024-03-27 13:04:12,421 - test_reward_listing.py:[9] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-27 13:04:42,351 - conftest.py:[35] - [INFO] - ground truth datasource = api
+2024-03-27 13:04:42,352 - api.py:[51] - [INFO] - fetching token
+2024-03-27 13:04:48,068 - conftest.py:[43] - [INFO] - initiating driver ios token = f501aadccde841f3bbd7c9abf3795108fde45594
+2024-03-27 13:04:48,070 - test_reward_listing.py:[9] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-27 13:04:49,072 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-27 13:04:52,822 - test_reward_listing.py:[20] - [INFO] -  rewards listing screen: available points = You have 1,971,067 points  extracted_remaining_points = 1971067 remaining_points = 1971047
+2024-03-27 13:05:42,243 - conftest.py:[35] - [INFO] - ground truth datasource = api
+2024-03-27 13:05:42,244 - api.py:[51] - [INFO] - fetching token
+2024-03-27 13:05:48,110 - conftest.py:[43] - [INFO] - initiating driver ios token = 9d085f0ef342971603c2bb52073e3f498d94b156
+2024-03-27 13:05:48,111 - test_reward_listing.py:[9] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-27 13:05:49,116 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-27 13:05:50,806 - test_reward_listing.py:[20] - [INFO] -  rewards listing screen: available points = You have 1,971,047 points  extracted_remaining_points = 1971047 remaining_points = 1971047
+2024-03-27 13:05:50,806 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971047
+2024-03-27 13:05:50,808 - test_reward_listing.py:[28] - [INFO] -  rewards listing screen: available points = You have 1,971,047 points  extracted_remaining_points = 1971047 formatted_remaining_points = 1,971,047

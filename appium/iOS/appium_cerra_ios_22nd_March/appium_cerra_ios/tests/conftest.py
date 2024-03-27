@@ -9,6 +9,7 @@ from appium.webdriver.common.appiumby import AppiumBy
 from appium_drivers.driverFactory import DriverFactory
 from appium_drivers.ios_driver import init_ios_driver
 from datasource.datasourceFactory import DatasourceFactory
+from locators.locatorFactory import LocatorFactory
 from utility.logger import setup_logger
 from utility.configReader import read_config
 from utility.screenshotUtil import take_screenshot_with_element_highlighted
@@ -44,6 +45,10 @@ def target_driver(logger, datasource):
     yield driver
     driver.quit()
 
+@pytest.fixture(scope="session")
+def locator(target_driver):
+    target = read_config('target', 'os')
+    retval = LocatorFactory.create_locator(target, target_driver)
 
 @pytest.fixture()
 def screenshot_on_failure(request, target_driver):

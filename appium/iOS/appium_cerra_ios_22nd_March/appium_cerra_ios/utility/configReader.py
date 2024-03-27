@@ -9,3 +9,7 @@ def read_config(section, key):
     config.read(config_file_path)
     # config.read("..\\ConfigurationData\\conf.ini")
     return config.get(section, key)
+
+
+def locator_reader(file_name, locator_id):
+    pass

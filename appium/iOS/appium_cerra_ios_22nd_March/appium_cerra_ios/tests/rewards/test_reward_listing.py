@@ -7,7 +7,7 @@ from utility.dataUtil import extract_number_from_string, get_formatted_number
 @pytest.mark.highlight_on_failure(element_id="rewardzContainerUserPointsLabel")
 def test_remaining_points_on_rewards_listing_screen(logger, datasource, target_driver, screenshot_on_failure):
     logger.info('executing : test_remaining_points_on_rewards_listing_screen')
-    el1 = target_driver.find_element(AppiumBy.ACCESSIBILITY_ID, "Rewards")
+    el1 = target_driver.find_element() #target_driver.find_element(AppiumBy.ACCESSIBILITY_ID, "mainTabRewardz")
     el1.click()
 
     dashboard_data = datasource.get_dashboard_data()
