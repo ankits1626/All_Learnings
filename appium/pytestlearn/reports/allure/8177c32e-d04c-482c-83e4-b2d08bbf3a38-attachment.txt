@@ -1,0 +1,6 @@
+[32mINFO    [0m first.conftest:conftest.py:15 preparing api_client for test
+[32mINFO    [0m first.test_setup:test_setup.py:36 -------- rewardz app: setup module first.rewardz.test_rewardz----------
+[32mINFO    [0m first.test_setup:test_setup.py:38 start appium service
+[32mINFO    [0m first.test_setup:test_setup.py:42 start appium driver
+[32mINFO    [0m first.conftest:conftest.py:24 started executing test_remaining_points_on_rewardz_listing_screen
+[32mINFO    [0m first.rewardz.test_rewardz:test_rewardz.py:29  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087

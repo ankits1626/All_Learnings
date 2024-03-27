@@ -1,0 +1,49 @@
+Appium
+Install Appium: https://anivaz.medium.com/how-to-seamlessly-integrate-appium-with-xcode-emulator-for-ios-testing-3da72b461208
+
+
+Check appium installation status: appium-doctor --ios
+
+
+Android
+    install divers:
+        appium driver install uiautomator2
+
+    for android we may have to do this before: export ANDROID_HOME=/Users/ankit/Library/Android/sdk
+    refer this doc to find java : https://support.smartbear.com/testcomplete/docs/app-testing/mobile/device-cloud/configure-appium/android-on-mac.html
+    get package and activity:
+        adb shell
+        dumpsys window windows | grep -E 'mCurrentFocus'
+        article: https://medium.com/automationmaster/appium-mobile-app-automation-406bf8b0fd80
+
+    launch app with token: -e token1 "16e570886f623c4ad7cbc3e80ac8ee76b2aa551a"
+
+Start Appium server: appium --allow-cors
+
+Kill :  lsof -i:4723
+
+Create coda env: conda create --name appium python=3.8
+
+Tools:
+Lambdatest
+
+Videos:
+Complete automation java: https://www.youtube.com/playlist?list=PLFUDS9LewFc6UYkIZ66qfobOWhgE-_bvM
+Python: https://www.udemy.com/course/appium-with-python-tutorial/learn/lecture/26778026#overview
+
+
+Run  pytest -s -v
+
+Allure
+pytest -v -s --alluredir="./reports/allure"
+allure serve ./reports/allure
+
+
+Create ascii tree
+	brew install tree
+	tree
+	tree -I '*.pyc' //if you want to ignore  all pic files
+	tree -I '*.pyc|__init__.py'
+
+Fixtures
+	pytest -m slow // run all test marks as slow

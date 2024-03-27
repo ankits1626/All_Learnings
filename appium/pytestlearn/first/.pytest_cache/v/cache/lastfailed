@@ -1,0 +1,5 @@
+{
+  "test_setup.py::test_main_rewardz_screen": true,
+  "rewardz/test_rewardz.py::test_main_remaining_points_on_rewardz_listing_screen": true,
+  "rewardz/test_rewardz.py::test_all_reward_category_properly_displayed": true
+}

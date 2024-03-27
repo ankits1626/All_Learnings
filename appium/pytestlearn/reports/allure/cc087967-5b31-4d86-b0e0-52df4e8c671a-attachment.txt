@@ -1,0 +1,7 @@
+[32mINFO    [0m first.conftest:conftest.py:24 started executing test_reward_detail_bulk_redemption_screen
+[32mINFO    [0m first.rewardz.test_rewardz:test_rewardz.py:125 
+ ------ displayed tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+[32mINFO    [0m first.rewardz.test_rewardz:test_rewardz.py:126 
+ ------ fetched tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'

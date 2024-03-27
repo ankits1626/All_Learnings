@@ -1,0 +1,46 @@
+5th March
+
+    Understand the problem statement
+    had conversation with backend, QA and mobile folk
+
+    Tools exploration in parllel
+    Read books/papers
+
+7th march
+    Proceeded with iOS and XCUItest
+
+12th March
+    Problem statement: Confidence to deal with backend changes
+    Shutdown XCUItest
+    Appium Exploration
+    explore various testing framework and tools
+    how to raise a production ready automation framework
+
+    build automation framework to showcase:
+        1) verify available user points
+        2) verify format of available user points
+        3) verify data on reward category listing screen
+        4) redemption of e-voucher
+        5) redemption of physical reward
+        6) reporting/evidence frames with high lighted problem area
+        7) Customizable framework to test apps against different enviornments and datasource
+        8) Reuse the same code base to test both ios and android
+
+    Crucial Decisions:
+        1) To begin with integrate the test suite with actual apis
+        2) Use python appium client to build the test suite instead of java
+        3) Use Page/Screen object model to organize the code
+        4) Keep the test suite configurable: environment, user, excel-based test setup
+
+    Questions/Risk:
+        1) Api integrated test are fragile depending upon the availability
+        2) Test environment needs a setup (need to explore the automation of this bit, working with QA to understand current process)
+
+    Findings:
+        1) We'll need an automation engineer for raise/maintain this
+
+22nd March
+    1) Catchup with Biplab
+    2) Shakedown cases
+    3) Regression
+    4) Android / Configuration mock datasource

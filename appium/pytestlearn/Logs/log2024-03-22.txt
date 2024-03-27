@@ -1,0 +1,14 @@
+2024-03-22 11:04:22,264 - conftest.py:[24] - [INFO] - preparing api_client for test
+2024-03-22 11:04:22,980 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-22 11:04:22,980 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-22 11:04:24,054 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-22 11:04:29,963 - conftest.py:[34] - [INFO] - started executing test_remaining_points_on_rewardz_listing_screen
+2024-03-22 11:04:33,514 - test_rewardz.py:[29] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 11:04:33,521 - conftest.py:[34] - [INFO] - started executing test_remaining_points_format_on_rewardz_listing_screen
+2024-03-22 11:04:35,582 - DataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 11:04:36,345 - test_rewardz.py:[53] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  formatted_remaining_points = 1,971,087
+2024-03-22 11:04:36,348 - conftest.py:[34] - [INFO] - started executing test_all_reward_category_properly_displayed
+2024-03-22 11:04:41,699 - conftest.py:[34] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-22 11:04:53,464 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-22 11:04:53,483 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-22 11:04:53,483 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------

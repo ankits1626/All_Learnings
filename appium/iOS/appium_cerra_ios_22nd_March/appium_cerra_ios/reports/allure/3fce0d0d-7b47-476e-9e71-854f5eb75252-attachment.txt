@@ -1,0 +1,6 @@
+[32mINFO    [0m my_app:conftest.py:33 ground truth datasource = api
+[32mINFO    [0m my_app:api.py:51 fetching token
+[32mINFO    [0m my_app:conftest.py:41 initiating driver iOS token = 0d898a78843c104758f1ab4943b28abedd6e5028
+[32mINFO    [0m my_app:test_reward_listing.py:8 executing : test_remaining_points_on_rewards_listing_screen
+[32mINFO    [0m my_app:api.py:83 fetching dashboard data
+[32mINFO    [0m my_app:test_reward_listing.py:19  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1 remaining_points = 1971087

@@ -1,0 +1,16 @@
+[
+  "rewardz/test_rewardz.py::test_all_reward_category_properly_displayed",
+  "rewardz/test_rewardz.py::test_main_remaining_points_on_rewardz_listing_screen",
+  "rewardz/test_rewardz.py::test_main_rewardz_screen",
+  "rewardz/test_rewardz.py::test_physical_reward_redemption",
+  "rewardz/test_rewardz.py::test_remaining_points_format_on_rewardz_listing_screen",
+  "rewardz/test_rewardz.py::test_remaining_points_on_rewardz_listing_screen",
+  "rewardz/test_rewardz.py::test_reward_detail_bulk_redemption_screen",
+  "rewardz/test_rewardz.py::test_reward_detail_bulk_redemption_screen[reward_name]",
+  "rewardz/test_rewardz.py::test_reward_detail_bulk_redemption_screen[reward_pk]",
+  "rewardz/test_rewardz.py::test_reward_detail_bulk_redemption_screen[test_id]",
+  "rewardz/test_rewardz.py::test_reward_detail_redemption_screen",
+  "test_first.py::test_login",
+  "test_first.py::test_user_reg",
+  "test_setup.py::test_main_rewardz_screen"
+]

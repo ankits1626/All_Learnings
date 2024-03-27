@@ -1,0 +1,6 @@
+[32mINFO    [0m my_app:test_reward_redemption.py:37 
+ ------ displayed tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+[32mINFO    [0m my_app:test_reward_redemption.py:38 
+ ------ fetched tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'

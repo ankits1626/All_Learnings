@@ -1,0 +1,283 @@
+2024-03-21 00:36:24,008 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 00:36:24,688 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 00:36:24,688 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 00:36:25,382 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 00:36:27,384 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 00:36:39,305 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 00:36:39,352 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 00:36:39,352 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 00:36:48,160 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 00:36:49,730 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 00:36:49,730 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 00:36:50,316 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 00:36:55,097 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 00:37:01,779 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 00:37:01,803 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 00:37:01,803 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 00:40:26,294 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 00:40:27,778 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 00:40:27,778 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 00:40:28,375 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 00:40:30,160 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 00:40:40,251 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 00:40:40,265 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 00:40:40,265 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 00:40:45,011 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 00:40:45,772 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 00:40:45,772 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 00:40:46,245 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 00:40:50,253 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 00:40:58,336 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 00:40:58,358 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 00:40:58,358 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 00:43:25,125 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 00:43:25,779 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 00:43:25,779 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 00:43:26,259 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 00:43:30,404 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 00:43:48,447 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 00:43:48,459 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 00:43:48,459 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 00:51:36,873 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 00:51:37,541 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 00:51:37,541 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 00:51:38,209 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 00:51:43,349 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 00:51:55,447 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 00:51:55,459 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 00:51:55,459 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 00:55:55,363 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 00:55:57,082 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 00:55:57,083 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 00:55:57,653 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 00:56:02,510 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 00:56:10,909 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 00:56:10,920 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 00:56:10,920 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 00:57:02,827 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 00:57:03,588 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 00:57:03,588 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 00:57:04,045 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 00:57:07,862 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 00:57:26,507 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 00:57:26,519 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 00:57:26,519 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 00:58:10,173 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 00:58:11,788 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 00:58:11,788 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 00:58:12,286 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 00:58:14,068 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 00:58:24,061 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 00:58:24,071 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 00:58:24,071 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 00:58:29,666 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 00:58:30,447 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 00:58:30,447 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 00:58:30,935 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 00:58:36,281 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 00:58:53,703 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 00:58:53,714 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 00:58:53,714 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 01:06:12,643 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 01:06:13,457 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 01:06:13,457 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 01:06:14,001 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 01:06:19,057 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 01:06:27,912 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 01:06:27,922 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 01:06:27,922 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 01:09:03,221 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 01:09:03,932 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 01:09:03,932 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 01:09:04,415 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 01:09:09,506 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 01:09:20,593 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 01:09:20,608 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 01:09:20,608 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 01:16:52,928 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 01:16:53,645 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 01:16:53,646 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 01:16:54,253 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 01:16:59,319 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 01:17:08,804 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 01:17:08,822 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 01:17:08,822 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 01:20:58,057 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 01:20:59,494 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 01:20:59,494 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 01:21:00,078 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 01:21:01,929 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 01:21:13,338 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 01:21:13,372 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 01:21:13,372 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 01:21:21,112 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 01:21:21,749 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 01:21:21,749 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 01:21:22,217 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 01:21:27,218 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 01:21:37,633 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 01:21:37,675 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 01:21:37,675 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 01:25:10,624 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 01:25:11,383 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 01:25:11,384 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 01:25:11,959 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 01:25:16,966 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 01:25:28,036 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 01:25:28,072 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 01:25:28,072 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 01:25:48,870 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 01:25:49,547 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 01:25:49,547 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 01:25:50,058 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 01:25:55,121 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 01:26:07,116 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 01:26:07,132 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 01:26:07,132 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 01:29:49,825 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 01:29:50,561 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 01:29:50,561 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 01:29:51,153 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 01:29:56,136 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 01:30:07,023 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 01:30:07,039 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 01:30:07,039 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 01:33:34,089 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 01:33:34,794 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 01:33:34,794 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 01:33:35,368 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 01:33:40,395 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 01:33:50,700 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 01:33:50,740 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 01:33:50,740 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 01:34:34,956 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 01:34:35,664 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 01:34:35,664 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 01:34:36,245 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 01:34:41,236 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 01:34:51,375 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 01:34:51,387 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 01:34:51,387 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 01:39:54,499 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 01:39:55,246 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 01:39:55,247 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 01:39:55,833 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 01:40:01,138 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 01:40:11,020 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 01:40:11,036 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 01:40:11,036 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 01:46:49,005 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 01:46:50,390 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 01:46:50,390 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 01:46:50,995 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 01:46:56,125 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 01:47:08,365 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 01:47:08,379 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 01:47:08,379 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 01:52:07,500 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 01:52:08,203 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 01:52:08,203 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 01:52:08,690 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 01:52:13,825 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 01:52:26,742 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 01:52:26,780 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 01:52:26,780 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 01:55:04,081 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 01:55:04,748 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 01:55:04,748 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 01:55:05,232 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 01:55:10,175 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 01:55:20,453 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 01:55:20,482 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 01:55:20,483 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 02:02:15,902 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 02:02:18,487 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 02:02:18,487 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 02:02:19,111 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 02:02:24,171 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 02:02:35,782 - test_rewardz.py:[125] - [INFO] - 
+ ------ displayed tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-21 02:02:35,783 - test_rewardz.py:[126] - [INFO] - 
+ ------ fetched tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-21 02:02:37,445 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 02:02:37,478 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 02:02:37,478 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 10:44:22,128 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 10:44:22,871 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 10:44:22,871 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 10:44:23,854 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 10:44:30,230 - conftest.py:[24] - [INFO] - started executing test_physical_reward_redemption
+2024-03-21 10:44:40,420 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 10:44:40,432 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 10:44:40,432 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 10:44:48,577 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 10:44:49,208 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 10:44:49,208 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 10:44:49,783 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 10:44:54,779 - conftest.py:[24] - [INFO] - started executing test_physical_reward_redemption
+2024-03-21 10:45:05,706 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 10:45:05,721 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 10:45:05,722 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 10:45:43,452 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 10:45:44,963 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 10:45:44,964 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 10:45:45,495 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 10:45:50,720 - conftest.py:[24] - [INFO] - started executing test_physical_reward_redemption
+2024-03-21 10:46:02,702 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 10:46:02,720 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 10:46:02,721 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 10:48:00,030 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 10:48:01,742 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 10:48:01,742 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 10:48:02,199 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 10:48:07,067 - conftest.py:[24] - [INFO] - started executing test_physical_reward_redemption
+2024-03-21 10:48:19,001 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 10:48:19,019 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 10:48:19,019 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 10:51:14,227 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 10:51:15,041 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 10:51:15,042 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 10:51:15,539 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 10:51:20,516 - conftest.py:[24] - [INFO] - started executing test_physical_reward_redemption
+2024-03-21 10:51:41,798 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 10:51:41,814 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 10:51:41,814 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 10:55:12,159 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 10:55:13,062 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 10:55:13,062 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 10:55:13,737 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 10:55:18,258 - conftest.py:[24] - [INFO] - started executing test_physical_reward_redemption
+2024-03-21 10:55:33,869 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 10:55:33,914 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 10:55:33,915 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 11:31:06,014 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 11:31:07,778 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 11:31:07,778 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 11:31:08,498 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 11:31:13,603 - conftest.py:[24] - [INFO] - started executing test_physical_reward_redemption
+2024-03-21 11:31:27,604 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 11:31:27,652 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 11:31:27,652 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------
+2024-03-21 11:35:13,510 - conftest.py:[15] - [INFO] - preparing api_client for test
+2024-03-21 11:35:14,321 - test_setup.py:[36] - [INFO] - -------- rewardz app: setup module first.rewardz.test_rewardz----------
+2024-03-21 11:35:14,321 - test_setup.py:[38] - [INFO] - start appium service
+2024-03-21 11:35:14,920 - test_setup.py:[42] - [INFO] - start appium driver
+2024-03-21 11:35:19,846 - conftest.py:[24] - [INFO] - started executing test_remaining_points_on_rewardz_listing_screen
+2024-03-21 11:35:22,252 - test_rewardz.py:[29] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-21 11:35:22,255 - conftest.py:[24] - [INFO] - started executing test_remaining_points_format_on_rewardz_listing_screen
+2024-03-21 11:35:23,958 - DataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-21 11:35:24,448 - test_rewardz.py:[53] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-21 11:35:24,451 - conftest.py:[24] - [INFO] - started executing test_all_reward_category_properly_displayed
+2024-03-21 11:35:29,367 - conftest.py:[24] - [INFO] - started executing test_reward_detail_bulk_redemption_screen
+2024-03-21 11:35:36,898 - test_rewardz.py:[125] - [INFO] - 
+ ------ displayed tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-21 11:35:36,899 - test_rewardz.py:[126] - [INFO] - 
+ ------ fetched tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-21 11:35:48,371 - conftest.py:[24] - [INFO] - started executing test_physical_reward_redemption
+2024-03-21 11:35:59,061 - test_setup.py:[48] - [INFO] - quit appium driver
+2024-03-21 11:35:59,098 - test_setup.py:[51] - [INFO] - stop appium service
+2024-03-21 11:35:59,099 - test_setup.py:[53] - [INFO] - -------- rewardz app: closing module first.rewardz.test_rewardz---------

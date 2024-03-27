@@ -1,0 +1,14 @@
+
+#A
+Appium-Python-Client==4.0.0
+allure-pytest==2.13.3
+
+#O
+openpyxl==3.1.2
+
+
+#P
+pytest==8.1.1
+pandas==2.2.1
+
+

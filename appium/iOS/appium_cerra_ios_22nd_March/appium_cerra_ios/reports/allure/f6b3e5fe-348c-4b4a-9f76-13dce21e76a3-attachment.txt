@@ -1,0 +1,4 @@
+[32mINFO    [0m my_app:conftest.py:35 ground truth datasource = api
+[32mINFO    [0m my_app:api.py:51 fetching token
+[32mINFO    [0m my_app:conftest.py:43 initiating driver iOS token = 353be3254829037945ed8119bcf67deae64c66d2
+[32mINFO    [0m my_app:test_reward_listing.py:9 executing : test_remaining_points_on_rewards_listing_screen

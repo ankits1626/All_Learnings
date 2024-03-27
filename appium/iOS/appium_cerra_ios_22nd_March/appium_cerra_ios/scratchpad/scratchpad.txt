@@ -1,0 +1,63 @@
+
+Redemption/Reward Detail screen
+    redeemViewTableContainer
+    redeemViewRedeemButton.
+
+
+Not Bulk Redemption
+    rewardDetailRedeemTopCell
+        rewardDetailRewardTitle
+        rewardDetailRewardDescription
+
+Bulk redemption
+    rewardDetailBulkRedemptionCell
+        rewardDetailRewardTitle
+        rewardDetailRewardDescription
+        rewardDetailQuantityStepper
+
+    rewardDetailPointCell
+        rewardDetailPointLabel
+
+    rewardDetailRedeemExpireTimeCell
+        rewardDetailValidityLabel
+
+    rewardDetailRedeemAboutCell
+        rewardDetailAboutTitleLabel
+        rewardDetailAboutDescriptionLabel
+        rewardDetailAboutReadMoreButton
+
+    rewardDetailRedeemTNCCell
+        rewardDetailRedeemTNCTextView
+        rewardDetailRedeemTNCToggleButton
+
+
+// confirmation
+    redeemConfirmationDrawerTitle
+    redeemConfirmationDrawerRewardName
+    redeemConfirmationDrawerAvailablePoints
+    redeemConfirmationDrawerRedeemButton
+    redeemConfirmationDrawerCancelButton
+
+// redeemed screen
+    redeemedStatusCell
+        redeemedStatusLabel
+    redeemedRewardInformationCell
+        redeemedRIRewardName
+        redeemedRIPointsUsed
+        redeemedRIQuantity
+        redeemedRIrewardImage
+
+    redeemedViewBottomButton
+
+// select address
+    selectAddressCell
+        selectAddressUserName
+        selectAddressUserAddress
+    selectAddressButton
+
+// bottom drawer
+    redeemBottomDrawer
+        redeemBottomDrawerAvailablePoints
+        redeemBottomDrawerPointsRequired
+        redeemBottomDrawerDeliveryFee
+        redeemBottomDrawerProceedButton

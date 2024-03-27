@@ -1,0 +1,1 @@
+[32mINFO    [0m first.conftest:conftest.py:24 started executing test_all_reward_category_properly_displayed

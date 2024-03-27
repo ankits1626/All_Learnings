@@ -1,0 +1,284 @@
+2024-03-22 09:31:44,877 - conftest.py:[29] - [INFO] - ground truth datasource = api
+2024-03-22 09:31:44,879 - test_reward_listing.py:[5] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 09:46:31,333 - conftest.py:[32] - [INFO] - ground truth datasource = api
+2024-03-22 09:46:31,335 - test_reward_listing.py:[5] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 09:46:44,091 - conftest.py:[32] - [INFO] - ground truth datasource = api
+2024-03-22 09:47:02,901 - conftest.py:[32] - [INFO] - ground truth datasource = api
+2024-03-22 09:47:12,678 - conftest.py:[24] - [INFO] - initiating driver iOS
+2024-03-22 09:47:12,684 - test_reward_listing.py:[5] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 09:51:21,773 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 09:51:21,774 - api.py:[51] - [INFO] - fetching token
+2024-03-22 09:51:27,344 - conftest.py:[33] - [INFO] - initiating driver iOS token = 9d0933935dee133f248a159dcc2ad7ff9ff7e809
+2024-03-22 09:51:27,345 - test_reward_listing.py:[5] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 09:56:10,276 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 09:56:10,277 - api.py:[51] - [INFO] - fetching token
+2024-03-22 09:56:16,841 - conftest.py:[33] - [INFO] - initiating driver iOS token = 1f14647556c036866ac07cc09675794accf5a47d
+2024-03-22 09:56:16,843 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 09:56:18,201 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 09:56:19,652 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:00:11,264 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:00:11,266 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:00:14,281 - conftest.py:[33] - [INFO] - initiating driver iOS token = a1933dd3c8ca588a18202360418820e6d03a6471
+2024-03-22 10:00:14,282 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:00:15,610 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:00:17,095 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:00:17,095 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:00:17,096 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:02:47,066 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:02:47,066 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:02:49,861 - conftest.py:[33] - [INFO] - initiating driver iOS token = ebacbb0e293d1f936255689a37e0f4c027b3f9bf
+2024-03-22 10:02:49,862 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:02:51,003 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:02:52,378 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:02:52,378 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:02:52,380 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:03:25,468 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:03:25,468 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:03:29,012 - conftest.py:[33] - [INFO] - initiating driver iOS token = 6b6600e4dff9102c2dd70083b0f7ddb1a3bb7804
+2024-03-22 10:03:29,013 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:03:30,090 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:03:31,312 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:03:31,312 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:03:31,313 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:06:28,299 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:06:28,300 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:06:31,125 - conftest.py:[33] - [INFO] - initiating driver iOS token = 31d074770e38c73d01cb716e9214a17f89107c0b
+2024-03-22 10:06:31,126 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:06:32,338 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:06:33,586 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:06:33,586 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:06:33,587 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:08:17,339 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:08:17,340 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:08:20,104 - conftest.py:[33] - [INFO] - initiating driver iOS token = 58fd131f6d6bec4f051e3fcd59bf056589ae99cb
+2024-03-22 10:08:20,105 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:08:21,345 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:08:23,283 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:08:23,283 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:08:23,284 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:11:02,874 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:11:02,876 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:11:06,364 - conftest.py:[33] - [INFO] - initiating driver iOS token = f90bd1129abf12741dc3bb3b9d690f7b814a1645
+2024-03-22 10:11:12,685 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:11:13,769 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:11:16,099 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:11:16,099 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:11:16,100 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:35:54,912 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:35:54,914 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:35:58,669 - conftest.py:[33] - [INFO] - initiating driver iOS token = 1ac13463bfa9bc9427177ac9872087ee648bd483
+2024-03-22 10:35:58,672 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:35:59,735 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:36:01,164 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:36:01,164 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:36:01,165 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:36:11,397 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:36:11,399 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:36:14,019 - conftest.py:[33] - [INFO] - initiating driver iOS token = 13c58ee9ac0f9207b648321ad39b863f9a8d64c7
+2024-03-22 10:36:14,021 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:36:15,056 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:36:16,260 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:36:16,261 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:36:16,262 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:38:08,699 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:38:08,701 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:38:12,547 - conftest.py:[33] - [INFO] - initiating driver iOS token = 25fd417dc06445fa210427105420bae690a81f49
+2024-03-22 10:38:12,548 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:38:13,688 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:38:15,083 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:38:15,083 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:38:15,084 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:46:54,282 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:46:54,283 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:47:00,114 - conftest.py:[33] - [INFO] - initiating driver iOS token = b6315a8f917bdc66068c4401bc30bf89f443cab8
+2024-03-22 10:47:00,115 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:47:00,954 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:47:02,661 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:47:02,661 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:47:02,662 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:49:42,791 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:49:42,792 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:49:45,465 - conftest.py:[33] - [INFO] - initiating driver iOS token = 19ef91a685bc8c74db5a46ccb84f803d9d6e3797
+2024-03-22 10:49:45,466 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:49:46,564 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:49:47,927 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:49:47,927 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:49:47,928 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:50:45,682 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:50:45,683 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:50:51,171 - conftest.py:[33] - [INFO] - initiating driver iOS token = 6143e9e6baff8c96bcdeb2faa1ef961ea5a12c5c
+2024-03-22 10:50:51,172 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:50:52,200 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:50:53,524 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:50:53,524 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:50:53,525 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:54:20,028 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:54:20,029 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:54:23,117 - conftest.py:[33] - [INFO] - initiating driver iOS token = 8f92c93cdb405ed420577026996e92bb37bdcad3
+2024-03-22 10:54:23,119 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:54:32,878 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:54:32,879 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:54:39,098 - conftest.py:[33] - [INFO] - initiating driver iOS token = c5e18034a5419a1285549792912993a7fe4b5e38
+2024-03-22 10:54:39,099 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:54:40,200 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:54:41,944 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:54:41,944 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:54:41,945 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:55:00,308 - test_reward_redemption.py:[36] - [INFO] - 
+ ------ displayed tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-22 10:55:00,309 - test_reward_redemption.py:[37] - [INFO] - 
+ ------ fetched tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-22 10:56:50,042 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:56:50,043 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:56:55,924 - conftest.py:[33] - [INFO] - initiating driver iOS token = 9cd63018fe39da39893d5e789f5833bbcc621547
+2024-03-22 10:56:55,926 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:56:56,782 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:56:58,131 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:56:58,131 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:56:58,132 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:57:24,659 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:57:24,660 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:57:28,864 - conftest.py:[33] - [INFO] - initiating driver iOS token = de451c9fd12e63a4ede64af3a87416c17fbf9100
+2024-03-22 10:57:28,865 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:57:30,136 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:57:31,685 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:57:31,686 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:57:31,686 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:58:16,851 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:58:16,853 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:58:23,018 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 10:58:23,018 - api.py:[51] - [INFO] - fetching token
+2024-03-22 10:58:31,322 - conftest.py:[33] - [INFO] - initiating driver iOS token = a145ee27eb799f932dc5879410647642c5ff6879
+2024-03-22 10:58:31,326 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 10:58:32,493 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 10:58:33,900 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 10:58:33,900 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 10:58:33,903 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 10:58:51,987 - test_reward_redemption.py:[37] - [INFO] - 
+ ------ displayed tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-22 10:58:51,987 - test_reward_redemption.py:[38] - [INFO] - 
+ ------ fetched tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-22 11:05:06,635 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 11:05:06,636 - api.py:[51] - [INFO] - fetching token
+2024-03-22 11:05:12,858 - conftest.py:[33] - [INFO] - initiating driver iOS token = 03844bae00ab24c1108c460171c6c20b6b06f902
+2024-03-22 11:05:12,859 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 11:05:14,027 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 11:05:15,848 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 11:05:15,848 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 11:05:15,849 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 11:05:35,504 - test_reward_redemption.py:[37] - [INFO] - 
+ ------ displayed tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-22 11:05:35,505 - test_reward_redemption.py:[38] - [INFO] - 
+ ------ fetched tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-22 11:06:34,052 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 11:06:34,053 - api.py:[51] - [INFO] - fetching token
+2024-03-22 11:06:40,848 - conftest.py:[33] - [INFO] - initiating driver iOS token = 2cc3595ac0d7f027e1471a501c2e1f31bd3c19a8
+2024-03-22 11:06:40,849 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 11:06:42,008 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 11:06:44,644 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 11:06:44,644 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 11:06:44,645 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 11:07:04,202 - test_reward_redemption.py:[37] - [INFO] - 
+ ------ displayed tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-22 11:07:04,202 - test_reward_redemption.py:[38] - [INFO] - 
+ ------ fetched tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-22 11:09:50,388 - conftest.py:[25] - [INFO] - ground truth datasource = api
+2024-03-22 11:09:50,390 - api.py:[51] - [INFO] - fetching token
+2024-03-22 11:10:00,038 - conftest.py:[33] - [INFO] - initiating driver iOS token = 7700ffe772b895d30d2d54a094f0c7e541a3492b
+2024-03-22 11:10:00,041 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 11:10:02,035 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 11:10:04,650 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 11:10:04,650 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 11:10:04,651 - test_reward_listing.py:[27] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 11:10:36,092 - test_reward_redemption.py:[37] - [INFO] - 
+ ------ displayed tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-22 11:10:36,092 - test_reward_redemption.py:[38] - [INFO] - 
+ ------ fetched tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-22 11:59:54,117 - conftest.py:[33] - [INFO] - ground truth datasource = api
+2024-03-22 11:59:54,118 - api.py:[51] - [INFO] - fetching token
+2024-03-22 12:00:21,392 - conftest.py:[33] - [INFO] - ground truth datasource = api
+2024-03-22 12:00:21,393 - api.py:[51] - [INFO] - fetching token
+2024-03-22 12:00:27,384 - conftest.py:[41] - [INFO] - initiating driver iOS token = 0d898a78843c104758f1ab4943b28abedd6e5028
+2024-03-22 12:00:27,385 - test_reward_listing.py:[8] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 12:00:28,529 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 12:00:29,930 - test_reward_listing.py:[19] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1 remaining_points = 1971087
+2024-03-22 12:00:47,581 - test_reward_redemption.py:[37] - [INFO] - 
+ ------ displayed tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-22 12:00:47,581 - test_reward_redemption.py:[38] - [INFO] - 
+ ------ fetched tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-22 12:16:39,389 - conftest.py:[34] - [INFO] - ground truth datasource = api
+2024-03-22 12:16:39,391 - api.py:[51] - [INFO] - fetching token
+2024-03-22 12:16:42,970 - conftest.py:[42] - [INFO] - initiating driver iOS token = 34b0359ce6e6afa81eb30968b045d03461bb6c4b
+2024-03-22 12:16:42,975 - test_reward_listing.py:[9] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 12:19:11,364 - conftest.py:[34] - [INFO] - ground truth datasource = api
+2024-03-22 12:19:11,365 - api.py:[51] - [INFO] - fetching token
+2024-03-22 12:19:17,623 - conftest.py:[42] - [INFO] - initiating driver iOS token = 90f2a1b842b5ef9da1df983b599ede0ee6c0e53f
+2024-03-22 12:19:17,624 - test_reward_listing.py:[9] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 12:19:18,597 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 12:19:20,095 - test_reward_listing.py:[20] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1 remaining_points = 1971087
+2024-03-22 12:21:59,457 - conftest.py:[34] - [INFO] - ground truth datasource = api
+2024-03-22 12:21:59,458 - api.py:[51] - [INFO] - fetching token
+2024-03-22 12:22:02,171 - conftest.py:[42] - [INFO] - initiating driver iOS token = 2dd028cd4595bdd1ef6db99ddf434e75df60872a
+2024-03-22 12:22:02,172 - test_reward_listing.py:[9] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 12:22:03,204 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 12:22:06,226 - test_reward_listing.py:[20] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1 remaining_points = 1971087
+2024-03-22 12:39:01,393 - conftest.py:[35] - [INFO] - ground truth datasource = api
+2024-03-22 12:39:01,394 - api.py:[51] - [INFO] - fetching token
+2024-03-22 12:39:08,829 - conftest.py:[43] - [INFO] - initiating driver iOS token = 1bd9cd35f59f99370bfc26c41fa100cffb948817
+2024-03-22 12:39:08,831 - test_reward_listing.py:[9] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 12:39:10,118 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 12:39:11,683 - test_reward_listing.py:[20] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1 remaining_points = 1971087
+2024-03-22 12:45:16,687 - conftest.py:[35] - [INFO] - ground truth datasource = api
+2024-03-22 12:45:16,689 - api.py:[51] - [INFO] - fetching token
+2024-03-22 12:45:20,024 - conftest.py:[43] - [INFO] - initiating driver iOS token = 8043ec74b3c871110c7b2574517cae4358a422f4
+2024-03-22 12:45:20,025 - test_reward_listing.py:[9] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 12:45:21,436 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 12:45:22,851 - test_reward_listing.py:[20] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1 remaining_points = 1971087
+2024-03-22 12:46:12,512 - conftest.py:[35] - [INFO] - ground truth datasource = api
+2024-03-22 12:46:12,515 - api.py:[51] - [INFO] - fetching token
+2024-03-22 12:46:19,298 - conftest.py:[43] - [INFO] - initiating driver iOS token = 9ce293485e5ad1f7afe65391589035058de3b1db
+2024-03-22 12:46:19,303 - test_reward_listing.py:[9] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 12:46:20,901 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 12:46:22,395 - test_reward_listing.py:[20] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1 remaining_points = 1971087
+2024-03-22 12:59:06,987 - conftest.py:[35] - [INFO] - ground truth datasource = api
+2024-03-22 12:59:06,989 - api.py:[51] - [INFO] - fetching token
+2024-03-22 12:59:12,744 - conftest.py:[43] - [INFO] - initiating driver iOS token = 23a3dbaf043f3a80b2a9bc89d9de6f9caa10d8fd
+2024-03-22 12:59:12,753 - test_reward_listing.py:[9] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 12:59:14,408 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 12:59:16,139 - test_reward_listing.py:[20] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1 remaining_points = 1971087
+2024-03-22 14:08:34,656 - conftest.py:[35] - [INFO] - ground truth datasource = api
+2024-03-22 14:08:34,657 - api.py:[51] - [INFO] - fetching token
+2024-03-22 14:08:40,384 - conftest.py:[43] - [INFO] - initiating driver iOS token = 6bdd2bfa49b4448f155906da4cd80e23c1c93400
+2024-03-22 14:08:40,386 - test_reward_listing.py:[9] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 14:08:41,341 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 14:08:44,595 - test_reward_listing.py:[20] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 remaining_points = 1971087
+2024-03-22 14:08:44,595 - dataUtil.py:[17] - [INFO] - get formatted number is_decimal_support_in_transaction_enabled = False number = 1971087
+2024-03-22 14:08:44,597 - test_reward_listing.py:[28] - [INFO] -  rewards listing screen: available points = You have 1,971,087 points  extracted_remaining_points = 1971087 formatted_remaining_points = 1,971,087
+2024-03-22 14:09:03,724 - test_reward_redemption.py:[37] - [INFO] - 
+ ------ displayed tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-22 14:09:03,724 - test_reward_redemption.py:[38] - [INFO] - 
+ ------ fetched tnc  ------- 
+ 'How to Redeem:\n\t•\tTap redeem &\xa0follow instructions on the redeemed page to use promo code.\nOther T&Cs:\n\t•\tNot applicable on public holidays.\n'
+2024-03-22 14:29:29,788 - conftest.py:[35] - [INFO] - ground truth datasource = api
+2024-03-22 14:29:29,789 - api.py:[51] - [INFO] - fetching token
+2024-03-22 14:29:34,542 - conftest.py:[43] - [INFO] - initiating driver iOS token = 353be3254829037945ed8119bcf67deae64c66d2
+2024-03-22 14:29:34,543 - test_reward_listing.py:[9] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 14:31:20,902 - conftest.py:[35] - [INFO] - ground truth datasource = api
+2024-03-22 14:31:20,903 - api.py:[51] - [INFO] - fetching token
+2024-03-22 14:31:26,759 - conftest.py:[43] - [INFO] - initiating driver iOS token = c28d9a62292be9cee2d11f91526ae357e2a8d2f6
+2024-03-22 14:31:26,760 - test_reward_listing.py:[9] - [INFO] - executing : test_remaining_points_on_rewards_listing_screen
+2024-03-22 14:31:27,631 - api.py:[83] - [INFO] - fetching dashboard data
+2024-03-22 14:31:29,168 - test_reward_listing.py:[20] - [INFO] -  rewards listing screen: available points = You have 1,971,067 points  extracted_remaining_points = 1 remaining_points = 1971067
