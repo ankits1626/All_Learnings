@@ -44,3 +44,8 @@
     2) Shakedown cases
     3) Regression
     4) Android / Configuration mock datasource
+
+ 3rd April:
+    1) Screen object Model
+    2) Android/iOS
+    3) Scrolling gesture
