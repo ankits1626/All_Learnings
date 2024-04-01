@@ -18,7 +18,12 @@ Android
 
     launch app with token: -e token1 "16e570886f623c4ad7cbc3e80ac8ee76b2aa551a"
 
-Start Appium server: appium --allow-cors
+Plugin:
+    appium plugin install --source=npm appium-gestures-plugin
+
+Start appium:
+    normal start: Start Appium server: appium --allow-cors
+    with gestures: appium --allow-cors --use-plugins=gestures
 
 Kill :  lsof -i:4723
 
