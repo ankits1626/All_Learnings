@@ -1,16 +1,31 @@
 Appium
-Install Appium: https://anivaz.medium.com/how-to-seamlessly-integrate-appium-with-xcode-emulator-for-ios-testing-3da72b461208
+	Install Appium: https://anivaz.medium.com/how-to-seamlessly-integrate-appium-with-xcode-emulator-for-ios-testing-3da72b461208
+	Check appium installation status: appium-doctor --ios
 
+	drivers:
+        	appium driver list
+        	appium driver install <driver name eg: uiautomator2, xcuitest>
 
-Check appium installation status: appium-doctor --ios
+	Start appium:
+    		normal start: Start Appium server: appium --allow-cors
+    		with gestures: appium --allow-cors --use-plugins=gestures
+
+	Kill :
+    		lsof -i:4723 : displays list of pid using port 4723
+    		kill -9 <pid>
+
+iOS:
+	xcrun xctrace list devices : devices list along with uuid
 
 
 Android
     install divers:
         appium driver install uiautomator2
 
-    for android we may have to do this before: export ANDROID_HOME=/Users/ankit/Library/Android/sdk
-    refer this doc to find java : https://support.smartbear.com/testcomplete/docs/app-testing/mobile/device-cloud/configure-appium/android-on-mac.html
+    for android we may have to do this before:
+		export ANDROID_HOME=/Users/ankit/Library/Android/sdk
+   		 refer this doc to find java : https://support.smartbear.com/testcomplete/docs/app-testing/mobile/device-cloud/configure-appium/android-on-mac.html
+
     get package and activity:
         adb shell
         dumpsys window windows | grep -E 'mCurrentFocus'
@@ -21,27 +36,25 @@ Android
 Plugin:
     appium plugin install --source=npm appium-gestures-plugin
 
-Start appium:
-    normal start: Start Appium server: appium --allow-cors
-    with gestures: appium --allow-cors --use-plugins=gestures
 
-Kill :  lsof -i:4723
 
-Create coda env: conda create --name appium python=3.8
+Create coda env:
+    conda create --name appium python=3.8
 
 Tools:
-Lambdatest
+    Lambdatest
 
 Videos:
-Complete automation java: https://www.youtube.com/playlist?list=PLFUDS9LewFc6UYkIZ66qfobOWhgE-_bvM
-Python: https://www.udemy.com/course/appium-with-python-tutorial/learn/lecture/26778026#overview
+    Complete automation java: https://www.youtube.com/playlist?list=PLFUDS9LewFc6UYkIZ66qfobOWhgE-_bvM
+    Python: https://www.udemy.com/course/appium-with-python-tutorial/learn/lecture/26778026#overview
 
 
-Run  pytest -s -v
+Run
+    pytest -s -v : show logs and print statements while running the app
 
 Allure
-pytest -v -s --alluredir="./reports/allure"
-allure serve ./reports/allure
+    pytest -v -s --alluredir="./reports/allure" : run the test with target directory where to save allure report
+    allure serve ./reports/allure : export and show the allure report in browser
 
 
 Create ascii tree
@@ -52,3 +65,4 @@ Create ascii tree
 
 Fixtures
 	pytest -m slow // run all test marks as slow
+
