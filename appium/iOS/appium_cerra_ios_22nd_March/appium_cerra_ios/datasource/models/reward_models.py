@@ -19,7 +19,13 @@ class Reward:
     def formatted_valid_until(self):
         if self.valid_until:
             valid_until_datetime = datetime.fromisoformat(self.valid_until.split('T')[0])
-            return valid_until_datetime.strftime("%d %B %Y")
+            # Get day, month, and year
+            day = valid_until_datetime.day
+            month = valid_until_datetime.strftime("%B")
+            year = valid_until_datetime.year
+            
+            # Format the date without leading zero for the day
+            return f"{day} {month} {year}"
         else:
             return None
 

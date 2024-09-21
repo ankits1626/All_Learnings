@@ -23,8 +23,9 @@ def get_formatted_number(is_decimal_support_in_transaction_enabled, number):
 
 
 def extract_number_from_string(string):
-    # Use regular expression to extract only digits from the string
-    digits_only = re.sub(r'\D', '', string)
-    # Convert the resulting string of digits into an integer
-    number = int(digits_only)
-    return number
+    # Use regular expression to extract digits and decimal point
+    match = re.search(r'(\d+(\.\d{1,2})?)', string)
+    if match:
+        number = float(match.group(1)) if '.' in match.group(1) else int(match.group(1))
+        return number
+    return None  # Return None if no number is found

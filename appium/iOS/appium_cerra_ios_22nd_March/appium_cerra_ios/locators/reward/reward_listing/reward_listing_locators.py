@@ -13,10 +13,13 @@ class RewardListingLocators(BaseLocator):
             self.iOS = {
                 "remaining_points_label": (AppiumBy.ACCESSIBILITY_ID, "rewardzContainerUserPointsLabel"),
                 "all_reward_category_rows": (AppiumBy.ACCESSIBILITY_ID, "rewardListingRewardCollectionCell"),
+                "evoucher_see_all_button": (AppiumBy.ACCESSIBILITY_ID, "see_all_button"),
+                "reward_list": (AppiumBy.ACCESSIBILITY_ID, "reward_list"),
                 "navigate_to_reward": (
                     AppiumBy.XPATH,
-                    f"//XCUIElementTypeStaticText[@name=\"rewardCollectionRewardTitle\" "
-                    f"and @label=\"{self.param}\"]"
+                    f'(//XCUIElementTypeStaticText[@name="rewardCollectionRewardTitle"])[3]'
+                    # f"//XCUIElementTypeStaticText[@name=\"rewardCollectionRewardTitle\" "
+                    # f"and @label=\"{self.param}\"]"
                 ) if self.param else None
             }
         elif self.platform == 'Android':

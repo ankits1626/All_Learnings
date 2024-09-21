@@ -4,10 +4,11 @@ from appium import webdriver
 
 def init_ios_driver(datasource):
     appium_server_url = 'http://localhost:4723'
+    print(f'<<<<<< passed token  {datasource.token}')
     capabilities = dict(
         platformName='iOS',
-        deviceName='Phone 15 Pro Max',
-        udid='22BB4B4B-66AA-4029-84FD-122A8E971D60',
+        deviceName='iPhone 15',
+        udid='2E15D0AF-F116-4427-BA4B-96136DABDDE2',
         bundleId='com.rewardz.iOSCerra',
         noReset=True,
         showXcodeLog=True,

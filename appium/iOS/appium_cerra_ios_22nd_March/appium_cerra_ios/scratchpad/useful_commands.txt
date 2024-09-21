@@ -5,7 +5,7 @@ Appium
 	drivers:
         	appium driver list
         	appium driver install <driver name eg: uiautomator2, xcuitest>
-
+	install gestures plugin: appium plugin install --source=npm appium-gestures-plugin (https://appium.io/docs/en/2.11/ecosystem/plugins/)
 	Start appium:
     		normal start: Start Appium server: appium --allow-cors
     		with gestures: appium --allow-cors --use-plugins=gestures

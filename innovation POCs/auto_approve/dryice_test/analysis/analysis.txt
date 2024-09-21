@@ -1,0 +1,16 @@
+jpeg_20240904_135128.jpg : corrupt image
+
+Receipt/2024/2j3zhjcmf4.jpg : wrong date of receipt 2024-08-03 but in receipt 10/8/2024
+
+jpeg_20240904_111857.jpg : same as above
+
+jpeg_20240904_111549.jpg : it was rejected so kind of ok
+
+svv07yncev.jpg : same as above date was entered wrong
+
+lzociz0sbn_xRb4Rjo.jpg : same as above date was entered wrong
+
+
+
+=======================================
+8yop0rjhpk.jpg : COACH is printed multiline

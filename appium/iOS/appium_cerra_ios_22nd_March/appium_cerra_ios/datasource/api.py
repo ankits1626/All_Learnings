@@ -47,7 +47,7 @@ class APIDatasource(Datasource):
 
     def _fetch_token(self):
         # Read username and password from conf.ini
-        print('<<<<< fetching token')
+       
         logger.info('fetching token')
         config_file_path = os.path.join(get_project_folder_path(), 'conf.ini')
         config = configparser.ConfigParser()
@@ -57,6 +57,7 @@ class APIDatasource(Datasource):
         password = read_config('credentials', 'password')
 
         login_url = f"{self._server_url}/profiles/api/token-auth/"
+        print(f'<<<<< fetching token login_url ={login_url}')
         data = {
             "username": username,
             "password": password
@@ -70,6 +71,7 @@ class APIDatasource(Datasource):
             response.raise_for_status()  # Raise an error for non-2xx status codes
             token_data = response.json()
             self._token = token_data.get("token")
+            print(f'<<<<< fetched token  ={self._token}')
         except requests.exceptions.RequestException as e:
             logger.error(f"Error logging in: {e}")
             self._token = None

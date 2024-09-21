@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/app  # Mount the current directory into /app in the container
+      - /app/build  # Optionally, mount the build directory if you want to persist builds
+    environment:
+      - SPRING_PROFILES_ACTIVE=dev  # Set environment profiles if needed
+    command: ./gradlew bootRun

@@ -27,6 +27,13 @@ class RewardListingScreen(BaseScreen):
     def get_all_reward_category_titles(self):
         all_reward_category_rows = self.locator.get_locator('all_reward_category_rows')
         return self.driver.find_elements(*all_reward_category_rows)
+    
+    def navigate_to_all_rewards_page(self, reward_name):
+        self.locator.load_param(reward_name)
+        see_all_button_locator = self.locator.get_locator('see_all_button')
+        sea_all_button = self.driver.find_element(*see_all_button_locator)
+        sea_all_button.click()
+        return RewardListingScreen(self.driver, self.platform)
 
     def navigate_to_reward_redemption(self, reward_name):
         try:
@@ -34,14 +41,16 @@ class RewardListingScreen(BaseScreen):
             reward_title_locator = self.locator.get_locator('navigate_to_reward')
             print(f'<<<< reward_title_locator = {reward_title_locator}')
             reward_tile = self.driver.find_element(*reward_title_locator)
+            print(f'<<<< element found thus will click and navigate to reward = {reward_title_locator}')
             reward_tile.click()
             return RewardDetailScreen(self.driver, self.platform)
         except Exception as e:
-            print("An error occurred:", e)
+            print("********* An error occurred: thuss will scroll up", e)
             reward_listing_view_locator = self.locator.get_locator('reward_list')
             reward_listing_view = self.driver.find_element(*reward_listing_view_locator)
+            print(f'<<<< reward list is found and will try to scroll it = {reward_listing_view}')
             self.driver.execute_script(
-                "gesture: swipe",
+                "mobile: swipe",
                 {
                     "elementId": reward_listing_view.id,
                     'percentage': 100,
